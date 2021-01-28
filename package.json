@@ -13,5 +13,17 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "mysql": "^2.18.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sovereign5/WoW-Characters.git"
+  },
+  "keywords": [
+    "WoW"
+  ],
+  "bugs": {
+    "url": "https://github.com/Sovereign5/WoW-Characters/issues"
+  },
+  "homepage": "https://github.com/Sovereign5/WoW-Characters#readme"
 }
