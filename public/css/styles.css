@@ -1,0 +1,30 @@
+body {
+	font-family: Arial;
+	background: darkgrey;
+}
+
+.header {
+	padding: 20px;
+	font-size: 20px;
+	text-align: center;
+	background-color: white;
+}
+
+.left-column {
+	float: left;
+	width: 75%;
+	padding-left: 20px;
+}
+
+.right-column {
+	float: right;
+	width: 25%;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.card {
+	background-color: white;
+	padding: 20px;
+	margin-top: 20px;
+}
